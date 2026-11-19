@@ -1,0 +1,9 @@
+AYSEN PATAGONIA TOUR - PREVIEW 3
+Entrega del 19 de noviembre de 2026.
+
+1. En GitHub, abre el repositorio de preview y elige Add file > Upload files.
+2. Arrastra el CONTENIDO de esta carpeta: index.html, en.html, pt.html, assets, scripts y los documentos. Conserva las carpetas assets y scripts con sus subcarpetas.
+3. Confirma los cambios con Commit changes. Para publicarlo, activa GitHub Pages desde Settings > Pages, rama main, carpeta /(root).
+
+Si usas el ZIP, descomprimelo primero. No subas el ZIP como sitio ni una carpeta contenedora por encima de index.html.
+El formulario es una demostracion: todavia no envia correos. Los contactos por WhatsApp si abren el numero configurado.
